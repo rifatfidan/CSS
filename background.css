@@ -1,0 +1,9 @@
+.doruk{
+    background-image: url(image1.png);
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    color: antiquewhite;
+    text-align: center;
+}

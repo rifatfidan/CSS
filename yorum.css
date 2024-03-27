@@ -1,0 +1,14 @@
+    .yaziOzellik{
+        /*
+            class için özellikleri buraya yazdık. yorum satırı
+        */
+        color: brown;
+        font-weight: bold;
+        border: 5px inset white;
+        padding: 5px;
+        background-color: aqua;
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        margin: auto;
+        }

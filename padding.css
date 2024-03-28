@@ -1,0 +1,24 @@
+.kutu1{
+    background-color: rgb(10, 56, 56);
+    width: 200px;
+    height: 200px;
+    color: aliceblue;
+}
+h3{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.paragraf{
+    padding-top: 80px;
+    padding-right: 5px;
+    color: aquamarine;
+    text-align: right;
+}
+
+
+    <div class="kutu1">  
+        <h3>Zubeyir Fidan</h3>
+        <p>Siteye Hoşgeldiniz</p>
+        <p class="paragraf">Copyright Hakları Saklıdır</p>
+    </div>
